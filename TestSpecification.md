@@ -8,13 +8,13 @@
 
 [ライフサイクル](Lifecycle.md)
 
-## タッチ操作
+## ジェスチャー操作
 
-[タッチ操作](OperationTatch.md)
+[ジェスチャー操作](Gesture.md)
 
-## デバイス操作
+## デバイス
 
-[デバイス操作](OperationDevice.md)
+[デバイス](Device.md)
 
 ## セキュリティ
 
